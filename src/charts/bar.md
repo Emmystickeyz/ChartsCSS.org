@@ -3,7 +3,15 @@ permalink: /charts/bar/
 prev: ../
 ---
 
-# Bar
+# Bar       Edge vs Cloud Latency in Intrusion Detection
+  500 |                                 ████████
+  400 |                                 ████████ Cloud (300+ ms)
+  300 |                                 ████████
+  200 |                                 ████████
+  100 |        ████████                 ████████
+   50 |        ████████ Edge (8.2–100 ms)███████
+    0 +---------------------------------------
+         Edge               Cloud
 
 Bar charts display raw data as horizontal bars.
 
